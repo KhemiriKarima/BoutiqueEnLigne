@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+org.eclipse.jpt.core.platform=eclipselink2_3
+staticweave.LOG_LEVEL=SEVERE
+staticweave.SOURCE=build\\classes
+staticweave.TARGET=build\\classes

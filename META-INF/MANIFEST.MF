@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: JpaExample1
+Bundle-SymbolicName: JpaExample1
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: JpaExample1.jar,
+ Amira/jar/mysql-connector-java-3.1.14-bin.jar
+Export-Package: .
